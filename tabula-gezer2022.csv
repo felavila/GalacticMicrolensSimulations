@@ -1,0 +1,98 @@
+name,Spec./Model Class,ProbCBe,ProbAGB,ProbRG,ProbMS,ProbYS O,Ref.,table
+Gaia16aye,RG/ULENS,0,0,0.99,0.01,0,1,table
+Gaia17cfu,ULENS,0.02,0,0.54,0.18,0.26,Paczyński model,table
+Gaia17clq,RG/ULENS,0.63,0,0.32,0.05,0,2,table
+Gaia18akn,Be star,0.68,0,0.05,0.08,0.19,2,table
+Gaia18akt,Be star,0.72,0,0.01,0.04,0.23,2,table
+Gaia18asq,YSO,0.04,0,0.45,0.2,0.31,2,table
+Gaia18atq,Be star,0,0.9,0.02,0,0.08,2,table
+Gaia18auy,Be star,0.31,0.02,0.31,0.08,0.28,2,table
+Gaia18bcb,AGB,0,0.91,0.01,0,0.08,3,table
+Gaia18bmt,RG/ULENS,0,0,0.98,0.01,0.01,4,table
+Gaia18ces,RG/ULENS,0,0,1,0,0,3,table
+Gaia18cmn,Be star,0.43,0,0.12,0.04,0.41,3,table
+Gaia18cnz,AGB,0,0.99,0,0,0.01,16,table
+Gaia18cre,YSO,0.32,0,0,0.68,0,3,table
+Gaia18dvy,YSO,0,0,0.01,0,0.99,5,table
+Gaia19aed,ULENS,0.1,0.05,0.05,0,0.8,Paczyński model,table
+Gaia19aik,YSO,0.51,0,0.03,0.05,0.41,6,table
+Gaia19bii,ULENS,0.1,0,0.9,0,0,Paczyński model,table
+Gaia19bjq,ULENS,0,0,0.98,0.02,0,Paczyński model,table
+Gaia19bku,ULENS,0.08,0.02,0.43,0.07,0.4,Paczyński model,table
+Gaia19bld,RG/ULENS,0,0,1,0,0,7,table
+Gaia19ccl,RG/ULENS,0,0,0.92,0.08,0,8,table
+Gaia19dmj,RG/ULENS,0,0,0.91,0.06,0.03,9,table
+Gaia19dqg,RG/ULENS,0,0.78,0.2,0,0.02,10,table
+Gaia19dqm,RG/ULENS,0.03,0,0.43,0.09,0.45,10,table
+Gaia19drp,Be star,0.99,0,0,0,0.01,"11,12",table
+Gaia19dvk,Be star,0.62,0,0.1,0.03,0.25,11,table
+Gaia19dwt,RG/ULENS,0,0.28,0.31,0,0.41,11,table
+Gaia19ewo,YSO,0.18,0,0.04,0.07,0.71,12,table
+Gaia19fhn,RG/ULENS,0,0.4,0.07,0,0.53,10,table
+Gaia19fiy,Be star,0.97,0,0,0.01,0.02,11,table
+Gaia19fku,YSO,0.09,0,0.64,0.21,0.06,12,table
+Gaia19fpb,YSO,0.02,0.02,0.42,0,0.54,12,table
+Gaia20abf,YSO,0.71,0,0,0.29,0,8,table
+Gaia20agb,RG/ULENS,0.59,0,0.04,0.12,0.25,8,table
+Gaia20asj,MS/ULENS,0.58,0,0.03,0.39,0,11,table
+Gaia20asm,YSO,0.01,0.02,0.07,0,0.9,11,table
+Gaia20asq,RG/ULENS,0.01,0,0.94,0.04,0.01,13,table
+Gaia20atp,YSO,0.36,0,0,0.11,0.53,11,table
+Gaia20avm,Be star,0.92,0,0.02,0.05,0.01,8,table
+Gaia20azf,RG/ULENS,0.15,0,0.55,0.07,0.23,11,table
+Gaia20bbn,Be star,0,0.09,0.17,0,0.74,10,table
+Gaia20bit,RG/ULENS,0.18,0,0.61,0.2,0.01,12,table
+Gaia20bkw,YSO,0.43,0,0.03,0.03,0.51,10,table
+Gaia20blb,RG/ULENS,0.33,0,0.45,0.21,0.01,"10, 14",table
+Gaia20blp,Be star,0.13,0,0.46,0.25,0.16,10,table
+Gaia20blv,YSO,0.04,0,0.33,0.02,0.61,10,table
+Gaia20bml,Be star,0.17,0,0.72,0.06,0.05,10,table
+Gaia20bof,RG/ULENS,0.45,0,0.31,0.23,0.01,9,table
+Gaia20bor,Be star,0.36,0,0.01,0.63,0,"14, 6",table
+Gaia20bpl,Be star,0.3,0,0.12,0.47,0.11,14,table
+Gaia20bwp,Be star,0,0.05,0.94,0,0.01,10,table
+Gaia20bzn,Be star,0.34,0,0.09,0.52,0.05,13,table
+Gaia20cek,YSO,0.34,0,0.3,0.12,0.24,"14, 15",table
+Gaia20cen,Be star,0.6,0,0.16,0.13,0.11,15,table
+Gaia20cga,RG/ULENS,0.15,0,0.65,0.2,0,15,table
+Gaia20cgb,RG/ULENS,0.35,0,0.23,0.41,0.01,15,table
+Gaia20cnv,RG/ULENS,0.47,0,0.32,0.18,0.03,13,table
+Gaia20cog,Be star,0.29,0,0.4,0.31,0,6,table
+Gaia20coi,Be star,0.56,0,0,0.44,0,6,table
+Gaia20cop,YSO,0.7,0,0.22,0.08,0,9,table
+Gaia20crc,Be star,0.13,0.01,0.42,0.09,0.35,15,table
+Gaia20cvo,Be star,0.73,0,0.01,0.05,0.21,13,table
+Gaia20cvu,RG/ULENS,0.39,0,0.05,0.4,0.16,13,table
+Gaia20cxk,YSO,0,0.04,0,0,0.96,14,table
+Gaia20cyx,YSO,0.32,0,0.31,0.36,0.01,15,table
+Gaia20czv,Be star,0.41,0,0.28,0.1,0.21,13,table
+Gaia20dsa,RG/ULENS,0.03,0,0.36,0.04,0.57,12,table
+Gaia20dwf,RG/ULENS,0,0,0.93,0,0.07,6,table
+Gaia20dxg,RG/ULENS,0,0.8,0.19,0,0.01,13,table
+Gaia20eak,Be star,0.99,0,0,0,0.01,6,table
+Gaia20efl,Be star,0.21,0,0.68,0.03,0.08,6,table
+Gaia20fnr,RG/ULENS,0,0,1,0,0,6,table
+Gaia21blg,RG/ULENS,0,0.73,0.06,0,0.21,12,table
+Gaia21ccu,RG/ULENS,0.46,0,0.18,0.35,0.01,12,table
+Gaia16aua,RG/ULENS,0,0.32,0,0.68,1,0,table2
+Gaia17ccb,ULENS,0.01,0,0.17,0.82,Paczyński model,1,table2
+Gaia17ctn,ULENS,0.02,0,0.9,0.08,Paczyński model,2,table2
+Gaia17ddp,ULENS,0.04,0,0.96,0,Paczyński model,3,table2
+Gaia18ajt,RG/ULENS,0.02,0,0.94,0.04,2,4,table2
+Gaia18bzl,ULENS,0,0.07,0.06,0.87,Paczyński model,5,table2
+Gaia18clr,ULENS,0.81,0,0.12,0.07,Paczyński model,6,table2
+Gaia18cmk,ULENS,0.29,0,0.06,0.65,Paczyński model,7,table2
+Gaia18dif,ULENS,0.02,0,0.9,0.08,Paczyński model,8,table2
+Gaia19aqb,ULENS,0,0.86,0.01,0.13,Paczyński model,9,table2
+Gaia19baz,ULENS,0,0.25,0,0.75,Paczyński model,10,table2
+Gaia19chi,ULENS,0.48,0,0.37,0.15,Paczyński model,11,table2
+Gaia19dov,RG/ULENS,0.59,0,0.07,0.34,3,12,table2
+Gaia19dqb,YSO,0,0,0.87,0.13,4,13,table2
+Gaia20ahk,YSO,0.01,0,0.09,0.9,5,14,table2
+Gaia20bcw,YSO,0.65,0,0.35,0,5,15,table2
+Gaia20coh,Be star,0.8,0,0.1,0.1,6,16,table2
+Gaia20crp,RG/ULENS,0.34,0,0.03,0.63,6,17,table2
+Gaia21bfr,RG/ULENS,0,0,0.98,0.02,7,18,table2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
